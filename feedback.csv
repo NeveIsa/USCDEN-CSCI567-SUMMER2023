@@ -1,0 +1,145 @@
+Name,Total,Feedback
+"Abene, Jacob",93,"2. Good attempt
+3.1 missing the explanation for why scaling by 2 doesn't change the outcome.
+"
+"Alas, Carlos",76,"2.2 - 2.4 While pruning a node, you should not prune the samples from data. Pruning a node means replacing that node with a leaf node.
+
+4b) good attempt.
+
+4d) values of beta not compared, just comparing dimensions is not enough
+"
+"Arrington, Christopher",57,"2.2 No tree or calculation for the same. Wrong Classification error
+2.3 Incomplete work. No updated tree or calculation for the same.
+2.4 Incomplete work. No updated tree or calculation for the same.
+1.2.b is wrong, 3.2 needs clearer explanation
+"
+"Asija, Kriti",91,"2. Good attempt
+3.1 Square root was not needed
+4b) good attempt but incorrect quantative comparision
+
+4d) correct observation about beta2 having all coefficients equal but incorrect shrinkage of beta
+"
+"Channar, Sameer",76,"2. Good attempt
+1.2.b omitted details, 3.1 needs a mathematical proof
+"
+"Chen, Ruanfan",78,"2.2 - 2.4 No tree generated or no calculation showing similar work
+3.2.b is wrong
+4e) good answer"
+"Chen, Xintong",96,"2. Good attempt
+
+4b) good answer but missing quantitave comparision
+4d) Same comment as 4b"
+"Clark, Daniel",64,"2. Good attempt
+1.1.a 1.2.b is missing. 3.1 is incomplete
+4) not attempted"
+"Cui, Yichen",#VALUE!,"
+
+"
+"Das, Aryaman",95,"2. Good attempt
+
+4b) good"
+"Dou, Wenjia",59,"2.4 Wrong classification error
+1.1.c is illegible, 1.2.a and 1.2.b are wrong, 3.1 missing the explanation for why scaling by 2 doesn't change the outcome. 3.2.b is wrong
+"
+"Fala, Matthew",84,"2. Good attempt
+3.1. is worng, 3.2.b needs more details
+"
+"Fein-ashley, Jacob",64,"2.2 - 2.4 No tree created and wrong classification errors
+2.5 Explanation not justified for the answer
+1.1.a needs to be for any distribution, 3.2.b needs more details
+4b) no, beta2 is not sqrt(k).beta1 in general, you would need additional assumptions like |x|^2 >> lambda to say that"
+"Gill, Ajit",86,"2. Good attempt
+3.1 concultion is wrong, missing the explanation for why scaling by 2 doesn't change the outcome. 3.2.b not clear
+4b) your intuition for 4b applies to 4e"
+"Guo, Zhaoyi",84,"2.2 Wrong tree created and hence, wrong classification error
+1.2.a inclomplete,  3.1 missing the explanation for why scaling by 2 doesn't change the outcome. 3.2.b not clear
+4b) and 4d) : good insight but missing qualitative comparision
+4e) good job"
+"Gupta, Khyati",100,"2. Good attempt
+
+4) good"
+"Hua, Wenlong",93,"2.3 Number of zeros and ones in pruned x3 branch are wrong
+
+"
+"Hyder, Justin",92,"2. Good attempt
+3.2.b not clear
+"
+"Jang, Sechang",93,"2. Good attempt
+3.2.b not clear
+"
+"Kelani, Aaishah",98,"2. Good attempt
+
+4d) the solution is not the same as 4b) but it is similar to some extent, see official solutions"
+"Le, Bryan",88,"2.5 No attempt
+3.2.b not clear
+4b) not quite right
+4d) This would be true if lambda << 1 but X^TX is not equal to 2X_{old}^TX_{old}"
+"Lee, Chung-Han",85,"2.4 Error of pruned x4 wrong. Should be 1/5 instead of 4/5
+1.2.b needs more details, 3.1 missed substitution
+"
+"Liao, Yi - Kai",90,"2.2 Calculation error. Number of misclassified samples for right node of x3 is wrong.
+3.1 missing the explanation for why scaling by 2 doesn't change the outcome.
+4b) incorrect"
+"Liu, Junjian",91,"2. Good attempt
+3.1 missing the explanation for why scaling by 2 doesn't change the outcome.
+4b) beta2 is smaller than beta1"
+"Padia, Shaivya",88,"2. Good attempt
+3.2.b wrong
+4a) incorrect but assigned score
+4b) should be X^TX + \lambda n I  inside the inverse"
+"Riabukhina, Daria",90,"2. Good attempt
+3.2.b wrong
+"
+"Roman, Adrian",100,"2. Good attempt
+
+"
+"Song, Zhecheng",90,"2. Good attempt
+3.1 wrong, missing details
+4d) this is similar but not same as 4b"
+"Stephanus, Michael",81,"2. Good attempt
+1.2 a and b are wrong
+4d) incorrect"
+"Thakur, Govind",86,"2. Good attempt
+1.1.a needs proof for any distribution. 1.1.b is wrong
+4d) Not completely correct, missing factor of 2 "
+"Tismansky, Yaniv",88,"2.3 Calculation error for right node of x4. There are two misclassified samples.
+1.1.a needs proof for any distribution.
+4b) Not true, beta_2 when related to beta_1 through both k and lambda, beta2_j is not simply beta1/k"
+"Toydemir, Ada",68,"2. Good attempt
+1.2.b needs more details, 3.1 needs more details, 3.2.b wrong
+4) Not attempted"
+"Wan, Zhiyu",97,"2. Good attempt
+
+4b) good try, but beta2 is not equal to beta1/k. It must depend on lambda as well
+4d) 4d generalises b) but your part b) is not entirely correct. "
+"Wang, Haofei",94,"2. Good attempt
+3.1 missing the explanation for why scaling by 2 doesn't change the outcome.
+4b) good try. beta2 is smaller than beta1"
+"Wu, Yonghao",89,"2. Good attempt
+
+"
+"Xiao, Han",86,"2. Good attempt
+1.1.a needs proof for any distribution. 3.1 missing the explanation for why scaling by 2 doesn't change the outcome. 3.2.b needs more details
+"
+"Yao, Junyuan",96,"2. Good attempt
+3.2.b needs more details
+4b) Very very good.
+4c) Very good try
+4d) why is beta' this form?"
+"Zeng, Ziyan",86,"2.2 - 2.4 Wrong classification error
+3.1 missing the explanation for why scaling by 2 doesn't change the outcome.
+"
+"Zhang, Guanjie",81,"2. Good attempt
+1.1.a needs proof for any distribution. Error in 3.1
+4b) beta2 does not have beta_1 as its components
+4d) similar feedback as 4b"
+"Zhang, Luoyuan",96,"2. Good attempt
+
+"
+"Zhang, Xiye",93,"2. Good attempt
+3.1 missing the explanation for why scaling by 2 doesn't change the outcome.
+4b,4d) not quite correct"
+"Zhang, Yiwei",80,"2. Good attempt
+1.2. is wrong
+4b,4d) not quite right
+"
